@@ -1,6 +1,6 @@
 # Japser Christmas Module
 
-This Jasper module returns the number of days until Christmas.
+This [Jasper](http://jasperproject.github.io/) module returns the number of days until Christmas.
 
 Usage example
 
