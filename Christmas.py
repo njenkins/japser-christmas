@@ -2,7 +2,7 @@
 import re
 import datetime
 
-WORDS = ["HOW" "LONG" "DAYS" "UNTIL" "CHRISTMAS" "SANTA" "WHEN" "IS"];
+WORDS = ["HOW" "LONG" "DAYS" "UNTIL" "CHRISTMAS" "SANTA" "WHEN" "IS" "MANY" "PRESENTS"];
 
 def handle(text, mic, profile):
     d1 = datetime.datetime.today()
